@@ -42,3 +42,16 @@ how to install google play services
 https://developer.android.com/studio/intro/update#sdk-manager
 rating bar used in marketing and management sections
 https://www.youtube.com/watch?v=O5I9cSW31ho
+
+.........................................................
+iteration 3 
+
+Login
+https://github.com/bikashthapa01/firebase-authentication-android
+
+
+..........................................................
+
+
+
+
